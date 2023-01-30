@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#watgram = fl oz multiplied by ~28
-#water_floz = user inputted water in fluid ounces
-# stren = strength, in plain english
-# ratio_choice = variable that stores user's choice of strength
-
 #Clear terminal
 clear
 
